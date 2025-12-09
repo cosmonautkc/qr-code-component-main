@@ -21,7 +21,7 @@ This is my solution to the QR code component challenge on Frontend Mentor. The g
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://cosmonautkc.github.io/qr-code-component-main/)
 
 ### Built with
 
@@ -42,5 +42,4 @@ I want to continue proactively choosing my HTML structure to keep it clean and c
 
 ## Author
 
-- Website - [Kacie](https://www.your-site.com)
 - Frontend Mentor - [@cosmonautkc](https://www.frontendmentor.io/profile/cosmonautkc)
