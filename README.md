@@ -12,25 +12,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is my solution to the QR code component challenge on Frontend Mentor. The goal was to recreate the layout as closely as possible using only HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://cosmonautkc.github.io/qr-code-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-t5q02VZQFw](https://your-solution-url.com)
+- Live Site URL: [https://cosmonautkc.github.io/qr-code-component-main/](https://cosmonautkc.github.io/qr-code-component-main/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Movile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Mobile-first workflow
 
 ### What I learned
 
