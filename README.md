@@ -18,7 +18,7 @@ This is my solution to the QR code component challenge on Frontend Mentor. The g
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-t5q02VZQFw](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-t5q02VZQFw](https://www.frontendmentor.io/solutions/qr-code-component-t5q02VZQFw)
 - Live Site URL: [https://cosmonautkc.github.io/qr-code-component-main/](https://cosmonautkc.github.io/qr-code-component-main/)
 
 ### Built with
